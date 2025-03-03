@@ -23,3 +23,16 @@
 ![](https://github.com/YumaRakha/Pertemuan3_PBF/blob/main/image/Cuplikan%20layar%202025-02-26%20190225.png)
 
 ### Tugas
+
+Pada nomer 1 & nomer 2 hasil saya kombinasi jadi satu seperti dibawah ini
+![](https://github.com/YumaRakha/Pertemuan3_PBF/blob/main/image/Untitled%20video%20-%20Made%20with%20Clipchamp%20(1).gif)
+
+Dengan kode program berikut
+![](https://github.com/YumaRakha/Pertemuan3_PBF/blob/main/image/no1%262.png)
+
+Hasil nomer 3 
+![](https://github.com/YumaRakha/Pertemuan3_PBF/blob/main/image/Cuplikan%20layar%202025-03-03%20153214.png)
+
+Dengan kode program berikut
+![](https://github.com/YumaRakha/Pertemuan3_PBF/blob/main/image/no3_A.png)
+![](https://github.com/YumaRakha/Pertemuan3_PBF/blob/main/image/no3_B.png)
